@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[${loader_version},)"
+license="GPLv3"
+issueTrackerURL="https://github.com/CrimsonFluff/Simple-Magnet/issues" #optional
+
+[[mods]]
+modId="simplemagnet"
+version="${version}"
+displayName="SimpleMagnet"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/crimson-simple-magnet"
+updateJSONURL="https://github.com/CrimsonFluff/Simple-Magnet/raw/1.16.5/update.json"
+authors="§4Crimson_Fluff"
+logoFile="logo.png"
+description=''' "A Simple Magnet !" '''
+
+[[dependencies.simplemagnet]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[${mc_version}]"
+  side="BOTH"
+[[dependencies.simplemagnet]]
+    modId="forge"
+    mandatory=true
+    versionRange="[${forge_version},)"
+    side="BOTH"
