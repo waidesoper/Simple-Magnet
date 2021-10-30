@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="GPLv3"
+issueTrackerURL="https://github.com/CrimsonFluff/Simple-Magnet/issues"
+
+[[mods]]
+modId="simplemagnet"
+version="1.17.1-1.0.0"
+displayName="Simple Magnet"
+displayURL="http://crimsonfluff.com/"
+updateJSONURL = "https://github.com/CrimsonFluff/Simple-Magnet/raw/1.17.1/update.json"
+authors="§4Crimson_Fluff"
+logoFile="logo.png"
+description=''' "Pulling me softly" '''

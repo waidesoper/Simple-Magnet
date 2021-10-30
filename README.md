@@ -1,2 +1,3 @@
-# Simple-Magnet
-a simple magnet for attracting items, xp or both
+# Simple Magnet
+
+"A Simple Magnet"

@@ -1,0 +1,37 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "simplemagnet:item/magnet"
+  },
+  "overrides": [
+    {
+      "predicate":
+      {
+        "custom_model_data": 0
+      },
+      "model": "simplemagnet:item/magnet"
+	},
+    {
+      "predicate":
+      {
+        "custom_model_data": 1
+      },
+      "model": "simplemagnet:item/magnet_on"
+	},
+	{
+      "predicate":
+      {
+        "custom_model_data": 2
+      },
+      "model": "simplemagnet:item/magnet_xp"
+	},
+	{
+      "predicate":
+      {
+        "custom_model_data": 3
+      },
+      "model": "simplemagnet:item/magnet_both"
+    }
+  ]
+}

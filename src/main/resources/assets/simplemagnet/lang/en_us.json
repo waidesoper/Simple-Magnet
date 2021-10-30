@@ -1,0 +1,11 @@
+{
+  "tip.simplemagnet.magnet1": "%s Item Pickup",
+  "tip.simplemagnet.magnet2": "%s XP Pickup",
+  "tip.simplemagnet.magnet3": "%s Item and XP Pickup",
+  "tip.simplemagnet.active": "%s Active",
+  "tip.simplemagnet.inactive": "%s Inactive",
+  "item.simplemagnet.magnet": "Simple Magnet",
+  "curios.identifier.magnet": "Simple Magnet Slot",
+  "key.simplemagnet.magnet": "Simple Magnet On/Off Toggle",
+  "key.simplemagnet.magnetmode": "Simple Magnet Mode Toggle"
+}
